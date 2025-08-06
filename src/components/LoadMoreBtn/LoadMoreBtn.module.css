@@ -1,0 +1,18 @@
+.wrapper {
+  text-align: center;
+  margin: 30px 0 40px 0;
+}
+.btn {
+  padding: 10px 38px;
+  background: #24292f;
+  color: #fff;
+  font-size: 1.14rem;
+  font-weight: 700;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.btn:hover {
+  background: #374151;
+}
